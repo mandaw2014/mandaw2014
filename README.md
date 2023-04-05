@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently working on a GameEngine called MandawEngine, made in python with PySDL2 :)
+I make games in Python using the Ursina Engine :)
 
 <!--
 **mandaw2014/mandaw2014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
